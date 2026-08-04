@@ -29,11 +29,11 @@ My work focuses on user-centered research, interactive prototyping, and designin
 ---
 ## Featured Projects
 
-- 🧓 ElderCare – High-fidelity accessibility-focused mobile application prototype.
-- 👨‍👩‍👧 FamilyHub – Human-centered family coordination application designed using interviews and usability evaluation.
-- 🚨 DASH – Disaster management mobile application prototype.
-- ♿ Smart Hand Gesture-Controlled Wheelchair – Assistive technology concept for elderly and physically impaired users.
-- 🧠 Context-Wise Multimodal Meme Analysis – Final Year Design Project on multimodal meme understanding using RAG.
+-  ElderCare – High-fidelity accessibility-focused mobile application prototype.
+-  FamilyHub – Human-centered family coordination application designed using interviews and usability evaluation.
+-  DASH – Disaster management mobile application prototype.
+- Smart Hand Gesture-Controlled Wheelchair – Assistive technology concept for elderly and physically impaired users.
+- Context-Wise Multimodal Meme Analysis – Final Year Design Project on multimodal meme understanding using RAG.
 
 ---
 
