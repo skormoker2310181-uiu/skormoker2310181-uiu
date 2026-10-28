@@ -2,7 +2,7 @@
 # Hi, I'm Sangita Kormoker 👋
 🎓 B.Sc. in Computer Science & Engineering, United International University (UIU)
 
-**CGPA:** 3.76 / 4.00 (114/138 credits completed)
+**CGPA:** 3.78 / 4.00 (126/138 credits completed)
 
 ---
 
